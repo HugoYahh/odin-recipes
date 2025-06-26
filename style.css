@@ -1,0 +1,46 @@
+h1 {
+    color:white;
+    background-color: lightpink;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    
+}
+
+body{
+    background-color: lightpink;
+}
+
+h3{
+    color: white;
+    text-align: center;
+
+}
+
+.link{
+    display: block;
+    margin: 16px;
+}
+
+header .link{
+    font-size: 30px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    
+}
+
+#delicious{
+    background-color: yellow;
+    
+}
+
+li{
+    margin-left: 150px;
+}
